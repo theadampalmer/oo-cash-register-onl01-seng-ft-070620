@@ -18,7 +18,7 @@ class CashRegister
     #     quantity.times do 
     #         @items.push(title)
     #     end
-    end
+    # end
 
     def apply_discount
         if @discount != 0
